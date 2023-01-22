@@ -19,7 +19,7 @@ theme = 'hugo-elate-theme'
   [params.navigation]
     brand = "PeriodicTable"
     home = "Home"
-    work = "Work"
+    work = "Main Features"
     about = "About"
     # You can add custom links before or after the default links
     # Assign a weight to define the order
@@ -64,8 +64,8 @@ theme = 'hugo-elate-theme'
   # Work section
   [params.work]
     enable = true
-    title = "Work"
-    description = "The Features Of PeriodicTable And What Can It Does"
+    title = "Main Features"
+    description = "The Main Features Of PeriodicTable"
 
     [[params.work.row]]
       img = "Screenshot_20230121_181524.png"
@@ -83,13 +83,13 @@ theme = 'hugo-elate-theme'
       img = "Screenshot_20230121_181603-1.png"
       alt = "InfoDialog"
       title = "Element Information"
-      subtitle = "See a summary information of elements"
+      subtitle = "See a summary information of each element"
 
     [[params.work.row]]
       img = "Screenshot_20230121_181625.png"
       alt = "Bohr'sModelScreenshot"
       title = "Bohr's Model"
-      subtitle = "See a bohr's model of elements"
+      subtitle = "See bohr's model of each element"
 
     [[params.work.row]]
       img = "wide-periodic-table.png"
@@ -123,5 +123,5 @@ theme = 'hugo-elate-theme'
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy;2023 ShahriariProgrammers'
+    copyright = '&copy;2023 Shahriari Programmers'
     links = []
