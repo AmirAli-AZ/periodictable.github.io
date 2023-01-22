@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://amirali-az.github.io/periodictable.github.io'
 languageCode = 'en-us'
 title = 'PeriodicTable'
 theme = 'hugo-elate-theme'
