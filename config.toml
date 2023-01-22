@@ -39,7 +39,7 @@ theme = 'hugo-elate-theme'
   # Hero section
   [params.hero]
     title = "PeriodicTable"
-    subtitle = 'A simple periodic table app for chemistery lovers!'
+    subtitle = 'A simple periodic table app for chemistry lovers!'
 
   # Intro section
   # Available icons: http://simplelineicons.com/
