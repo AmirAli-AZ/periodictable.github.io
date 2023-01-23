@@ -105,7 +105,7 @@ theme = 'hugo-elate-theme'
     [[params.about.item]]
       name = "Amir Ali Azimi"
       position = "Programmer"
-      description = "16 years old programmer from shahriari highschool in Iran"
+      description = "Programmer from shahriari highschool in Iran"
       img = "person1.jpg"
       alt = "AmirAliAzimi"
       social = [
